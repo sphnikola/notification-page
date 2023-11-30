@@ -50,10 +50,11 @@ export const userDetails = [
     id: 4,
     name: "Kimberly Smith",
     action: "commented on your picture",
-    description: "",
+
     time: "1 week ago",
     imgId: kimberly,
     isRead: true,
+    descriptionImg: chess,
   },
   {
     id: 5,
